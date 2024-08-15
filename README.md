@@ -1,5 +1,5 @@
 # Gadget1.0
-[!!!USE AT OWN DISCRETION!!!] Use to work with your pc hands free (Uses Ollama9llama3.1 by default)
+[!!!USE AT OWN DISCRETION!!!] Use to work with your pc hands free (Uses Ollama(llama3.1 by default))
 
 Install python 3.x
 Download Ollama
